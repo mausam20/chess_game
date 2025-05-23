@@ -16,4 +16,4 @@ This is a simple console-based chess game implemented in Python using object-ori
 Make sure you have Python 3 installed, then run the script:
 
 ```bash
-python chess_game.py
+python chess.py
